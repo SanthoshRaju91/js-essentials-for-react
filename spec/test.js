@@ -1,1 +1,1 @@
-import "../modules/arrow";
+import "../modules/block-scopes/solution";
