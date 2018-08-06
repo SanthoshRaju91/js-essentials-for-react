@@ -8,7 +8,7 @@
  */
 
 // TO RUN individual module
-import "../modules/spread/solution";
+import "../modules/classes/solution";
 
 // TO RUN ALL TESTS
 // import "../modules";
