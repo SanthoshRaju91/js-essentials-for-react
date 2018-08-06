@@ -8,7 +8,7 @@
  */
 
 // TO RUN individual module
-import "../modules/block-scopes/solution";
+import "../modules/spread/solution";
 
 // TO RUN ALL TESTS
 // import "../modules";
