@@ -7,4 +7,8 @@
  * "../modules/arrow/solution" - executing the solution
  */
 
+// TO RUN individual module
 import "../modules/block-scopes/solution";
+
+// TO RUN ALL TESTS
+// import "../modules";
